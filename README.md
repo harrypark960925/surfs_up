@@ -22,4 +22,4 @@ Key Difference between two months: June & December
 * According to the histogram of two months, the frequency of 75 degress is significantly more frequent in June comparing to December. 
 
 ## Summary 
-Although the temperature is much lower during December, running both an ice cream business and surfing shop doesn't seem to look hard even during December. The June is one of the hottest month in Hawaii but Hawaii also has a nice weather in December. By looking at the statistical analysis of both months - June and December - weather and temperature is not a big obstacle to run the business. 
+Although the temperature is much lower during December, running both an ice cream business and surfing shop doesn't seem to look hard even during December. The June is one of the hottest month in Hawaii but Hawaii also has a nice weather in December. By looking at the statistical analysis of both months - June and December - weather and temperature are not big obstacles to run the business. 
